@@ -1,6 +1,9 @@
-# Hey 👋
+# Hey 
 
-## Languages and Tools
+## My socials 👋
+
+
+## Languages and Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vin0x-windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
