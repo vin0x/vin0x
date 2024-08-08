@@ -1,5 +1,3 @@
-# Hey 
-
 ## My socials 👋
 
 <div> 
