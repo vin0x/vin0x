@@ -1,3 +1,8 @@
+## Hello, I'm Vinicius:
+
+Unconventional Data Engineer 🧠 - Interested in ML / Computer vision / Data Warehousing / BI / Blockchain / CyberSec  
+**Main side interests**: Electronics, Engineering, Healthtech and Neuroscience
+
 ## My socials 👋
 
 <div> 
@@ -8,8 +13,7 @@
 </div>
 
 ## Languages and Tools:
-
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="vin0x-windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="vin0x-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="vin0x-conda" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
