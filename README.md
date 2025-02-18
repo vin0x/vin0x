@@ -8,7 +8,7 @@ Data Engineer 🧠 - Interested in ML / Computer vision / Data Warehousing / BI 
 <div> 
   <a href = "mailto:vinigoes@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusagoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://vinigoes.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
+  <a href="https://vinigoes.carrd.co/" target="_blank"><img src="https://img.shields.io/badge/carrd.co-596CAF?style=for-the-badge&logo=carrd&logoColor=black&color=white" target="_blank"></a>
   
 </div>
 
