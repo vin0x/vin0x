@@ -1,7 +1,7 @@
 ## Hello, I'm Vinicius:
 
-Unconventional Data Engineer 🧠 - Interested in ML / Computer vision / Data Warehousing / BI / Blockchain / CyberSec  
-**Main side interests**: Electronics, Engineering, Healthtech and Neuroscience
+Data Engineer 🧠 - Interested in ML / Computer vision / Data Warehousing / BI / Blockchain / CyberSec  
+**Main side interests**: Electronics, Engineering, Healthtech, Neuroscience and Samba!
 
 ## My socials 👋
 
