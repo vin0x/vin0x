@@ -12,27 +12,137 @@ Data Engineer 🧠 - Interested in ML / Computer vision / Data Warehousing / BI 
   
 </div>
 
-## Languages and Tools:
-<div>
-  <img align="center" alt="vin0x-windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="vin0x-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="vin0x-conda" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="vin0x-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="vin0x-rstudio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="vin0x-node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="vin0x-azuresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="vin0x-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="vin0x-postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="vin0x-postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="vin0x-postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="ce
-    nter" alt="vin0x-aws" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="vin0x-apacheairflow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
-  <img align="center" alt="vin0x-docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="vin0x-matplot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="vin0x-scikit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="vin0x-pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="vin0x-tf" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  
-  
+## Languages and Tools
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" />
+      <br>Windows
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45" alt="RStudio" />
+      <br>RStudio
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## Data Engineering / Cloud / Databases
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" alt="Azure SQL" />
+      <br>Azure SQL
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud" />
+      <br>GCP
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Airflow" />
+      <br>Airflow
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="Spark" />
+      <br>Spark
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
+
+</div>
+
+## AI / ML / Data Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn" />
+      <br>Scikit
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+  </tr>
+</table>
+
+</div>
+
 </div>
