@@ -1,6 +1,7 @@
 ## Hello, I'm Vinicius:
 
-Data Engineer 🧠 - Interested in ML / Computer vision / Data Warehousing / BI / Blockchain / CyberSec  
+Mechatronics Engineer by training, working across Data Engineering, Data Science, and Machine Learning Engineering 
+- Interested in ML / Computer vision / Data Warehousing / BI / Blockchain / CyberSec  
 **Main side interests**: Electronics, Engineering, Healthtech, Neuroscience and Roots Samba!
 
 ## My socials  👋
